@@ -1,0 +1,2 @@
+./pyinstaller.exe "C:/Users/carte/Documents/code/libs/build/boot.py" --onefile --workpath "C:/Users/carte/Documents/code/libs/build"
+./pyinstaller.exe "C:/Users/carte/Documents/code/libs/build/loader.py" --onefile -i "C:/Users/carte/Downloads/inf.bmp" --workpath "C:/Users/carte/Documents/code/libs/build"
